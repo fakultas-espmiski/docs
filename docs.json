@@ -53,23 +53,15 @@
         ]
       },
       {
-        "group": "Audit",
+        "group": "Features",
         "icon": "clipboard-check",
         "expanded": true,
         "pages": [
-          "audit/desk-evaluation",
-          "audit/visitasi",
-          "audit/download-laporan-ami",
-          "audit/upload-laporan-ami"
-        ]
-      },
-      {
-        "group": "Laporan",
-        "icon": "file-chart-column",
-        "expanded": true,
-        "pages": [
-          "laporan/rekap-daftar-temuan",
-          "laporan/rekap-daftar-kesesuaian"
+          "feature/self-evaluation",
+          "feature/list-of-findings",
+          "feature/compliance-list",
+          "feature/desk-evaluation-results",
+          "feature/document-management"
         ]
       }
     ]
