@@ -43,7 +43,7 @@
     "groups": [
       {
         "group": "Pengenalan",
-        "icon": "book-open-reader",
+        "icon": "info",
         "expanded": true,
         "pages": [
           "index",
