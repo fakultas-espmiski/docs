@@ -53,15 +53,15 @@
         ]
       },
       {
-        "group": "Features",
+        "group": "Fitur",
         "icon": "clipboard-check",
         "expanded": true,
         "pages": [
-          "feature/self-evaluation",
-          "feature/list-of-findings",
-          "feature/compliance-list",
-          "feature/desk-evaluation-results",
-          "feature/document-management"
+          "fitur/evaluasi-diri",
+          "fitur/daftar-temuan",
+          "fitur/daftar-kesesuaian",
+          "fitur/hasil-desk-evaluasi",
+          "fitur/manajemen-dokumen"
         ]
       }
     ]
